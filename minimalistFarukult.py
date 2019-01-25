@@ -1,3 +1,5 @@
+# This script is from GitHub-ofgulban
+
 """Minimal frame for two stimuli separated in time."""
 
 from psychopy import visual, monitors, core, event
