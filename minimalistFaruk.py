@@ -1,3 +1,6 @@
+# From GitHub-ofgulban
+
+
 """Minimal frame for showing three stimuli with custom protocol."""
 
 import numpy as np
