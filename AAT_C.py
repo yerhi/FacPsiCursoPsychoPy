@@ -1,4 +1,4 @@
-# The thing to be change in UNS40 for TMS is the ITI time in the xls file 1.3,1.5 y 1.7.  // chk stimuli, mainly those that could be repeated or the frame
+
 #vhVH (*)  // pa prt: introduce code to create prt folder at the beginning, before starting trials create the lists, then at the end of trials the conditions of prt and list filling, before break the proper creation of prt 
 #!/usr/bin /env pythonf //  
 # -*- coding: utf-8 -*-// 
