@@ -1,7 +1,5 @@
-# The thing to be change in UNS40 for TMS is the ITI time in the xls file  1.5  and in script (take this one)// the file for example trial line 74 and 80
+
 #vhVH (*)  // pa prt: introduce code to create prt folder at the beginning, before starting trials create the lists, then at the end of trials the conditions of prt and list filling, before break the proper creation of prt 
-#!/usr/bin /env pythonf //  possible to erase the first 4 lists after test period
-# -*- coding: utf-8 -*-// lines 67 and 82 for examples // make sure of using right excel file (right answer = left or right -according to keyboard and not button box-)
 
 """
 This experiment was created using PsychoPy2 Experiment Builder (v1.80.06), augustus 13, 2014, at 18:36
